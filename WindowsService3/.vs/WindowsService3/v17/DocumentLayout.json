@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|c:\\users\\eugendesktop\\source\\repos\\windowsservice3\\windowsservice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|solutionrelative:windowsservice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\windowsservice3\\servicedbupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|solutionrelative:windowsservice3\\servicedbupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\windowsservice3\\servicedbupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|solutionrelative:windowsservice3\\servicedbupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\windowsservice3\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|solutionrelative:windowsservice3\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\windowsservice3\\servicedbupdatechecker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|solutionrelative:windowsservice3\\servicedbupdatechecker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsService3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDE2F7-604B-4ABE-99E6-6FC2B6CC3E0E}|WindowsService3\\WindowsService3.csproj|c:\\users\\eugendesktop\\source\\repos\\windowsservice3\\windowsservice3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceDbUpdateChecker.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\ServiceDbUpdateChecker.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsService3\\ServiceDbUpdateChecker.Designer.cs",
+              "ToolTip": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\ServiceDbUpdateChecker.Designer.cs",
+              "RelativeToolTip": "WindowsService3\\ServiceDbUpdateChecker.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:36:57.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowsService3",
+              "DocumentMoniker": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\WindowsService3.csproj",
+              "RelativeDocumentMoniker": "WindowsService3\\WindowsService3.csproj",
+              "ToolTip": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\WindowsService3.csproj",
+              "RelativeToolTip": "WindowsService3\\WindowsService3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-23T10:36:20.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsService3\\Program.cs",
+              "ToolTip": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\Program.cs",
+              "RelativeToolTip": "WindowsService3\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:34:52.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "WindowsService3\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "WindowsService3\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:33:19.295Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceDbUpdateChecker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\ServiceDbUpdateChecker.cs",
+              "RelativeDocumentMoniker": "WindowsService3\\ServiceDbUpdateChecker.cs",
+              "ToolTip": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\ServiceDbUpdateChecker.cs [Design]",
+              "RelativeToolTip": "WindowsService3\\ServiceDbUpdateChecker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:25:06.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceDbUpdateChecker.cs",
+              "DocumentMoniker": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\ServiceDbUpdateChecker.cs",
+              "RelativeDocumentMoniker": "WindowsService3\\ServiceDbUpdateChecker.cs",
+              "ToolTip": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService3\\WindowsService3\\ServiceDbUpdateChecker.cs",
+              "RelativeToolTip": "WindowsService3\\ServiceDbUpdateChecker.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:18:53.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

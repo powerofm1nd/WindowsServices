@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE4346-CDC4-47EB-B454-BB68366CDC48}|WindowsService2\\WindowsService2.csproj|c:\\users\\eugendesktop\\source\\repos\\windowsservice2\\windowsservice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE4346-CDC4-47EB-B454-BB68366CDC48}|WindowsService2\\WindowsService2.csproj|solutionrelative:windowsservice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService2\\WindowsService2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsService2\\Program.cs",
+              "ToolTip": "C:\\Users\\EugenDesktop\\source\\repos\\WindowsService2\\WindowsService2\\Program.cs",
+              "RelativeToolTip": "WindowsService2\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:35:42.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

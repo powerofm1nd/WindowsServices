@@ -1,0 +1,113 @@
+﻿Installing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service ServiceTestGoogle...
+Service ServiceTestGoogle has been successfully installed.
+Creating EventLog source ServiceTestGoogle in log Application...
+Committing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service ServiceTestGoogle...
+Creating EventLog source ServiceTestGoogle in log Application...
+Rolling back assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source ServiceTestGoogle.
+Uninstalling assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source ServiceTestGoogle.
+Service ServiceTestGoogle is being removed from the system...
+Service ServiceTestGoogle was successfully removed from the system.
+Uninstalling assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source ServiceTestGoogle.
+Warning: The source ServiceTestGoogle is not registered on the local machine.
+Service ServiceTestGoogle is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service ServiceTestGoogle...
+Service ServiceTestGoogle has been successfully installed.
+Creating EventLog source ServiceTestGoogle in log Application...
+Committing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source ServiceTestGoogle.
+Service ServiceTestGoogle is being removed from the system...
+Service ServiceTestGoogle was successfully removed from the system.
+Installing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service ServiceTestGoogle...
+Service ServiceTestGoogle has been successfully installed.
+Creating EventLog source ServiceTestGoogle in log Application...
+Committing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source ServiceTestGoogle.
+Service ServiceTestGoogle is being removed from the system...
+Service ServiceTestGoogle was successfully removed from the system.
+Installing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service ServiceTestGoogle...
+Service ServiceTestGoogle has been successfully installed.
+Creating EventLog source ServiceTestGoogle in log Application...
+Committing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service ServiceTestGoogle...
+Creating EventLog source ServiceTestGoogle in log Application...
+Rolling back assembly 'C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\EugenDesktop\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source ServiceTestGoogle.
